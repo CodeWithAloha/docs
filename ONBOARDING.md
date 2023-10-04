@@ -4,10 +4,14 @@
 - What is Civic Tech?
 - What is Code for Hawaii?
 - Where do we typically meet? How often?
+
 1. Go over the current projects
 - [ ] Go over the current projects
 - These include projects being currently worked on, as well as projects that have previously been worked on
+- How do projects get started? Check out the [PROJECTS.md](PROJECTS.md) file
+- How can I start contributing to a project? Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file
 1. Invite new members to the HiCapacity Slack workspace
+- What is HiCapacity? Why do we use it?
 - [ ] Add new members to the `#codeforhawaii` channel
 - The `#codeforhawaii` channel is for general discussion about Code for Hawaii
 - Projects are discussed in their own channels, with the convention of `#cfh-<project-name>`
