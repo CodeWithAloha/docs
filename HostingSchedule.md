@@ -3,6 +3,8 @@
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
 | * January | 8 | 2023 | @avenmia - @DerekMalone |
+| January | 22 | 2023 | @Alexandra-Haynes |
+| January | 29 | 2023 | Next Planning Meeting |
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
