@@ -1,10 +1,29 @@
 # Hosting Schedule
 
+> Note: `*` signifies an in-person meeting
+
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
-| * January | 8 | 2023 | @avenmia - @DerekMalone |
-| January | 22 | 2023 | @Alexandra-Haynes |
-| January | 29 | 2023 | Next Planning Meeting |
+| * April | 8 | 2024 | @tyliec |
+| April | 15 | 2024 | @avenmia |
+| April | 29 | 2024 | Next Planning Meeting - @avenmia |
+
+| Month | Day | Year | Host |
+| --- | --- | --- | --- |
+| * March | 4 | 2024 | @tyliec |
+| March | 11 | 2024 | @avenmia |
+| March | 18 | 2024 |  @kobebuckley |
+
+| Month | Day | Year | Host |
+| --- | --- | --- | --- |
+| * Feb | 5 | 2024 | @tyliec |
+| Feb | 12 | 2024 | @avenmia |
+
+| Month | Day | Year | Host |
+| --- | --- | --- | --- |
+| * January | 8 | 2024 | @avenmia - @DerekMalone |
+| January | 22 | 2024 | @Alexandra-Haynes |
+| January | 29 | 2024 | Next Planning Meeting |
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
