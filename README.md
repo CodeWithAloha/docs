@@ -1,4 +1,7 @@
 # docs
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Code with Aloha (formerly Code for Hawaii) is a volunteer-driven community organization. We are a group of developers, designers, data geeks, and citizen activists who use creative technology to solve civic and social problems. We do this by connecting government and community leaders with volunteer technologists.
 
@@ -25,3 +28,25 @@ Code with Aloha (formerly Code for Hawaii) is a volunteer-driven community organ
 - [Twitter Account](https://twitter.com/codewithaloha) - `@codewithaloha`
 - [LinkedIn Account](https://www.linkedin.com/company/code-with-aloha/) - `Code with Aloha`
 - [Open Collective](https://opencollective.com/code-with-aloha) is used to collect donations and pay for expenses.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bentut"><img src="https://avatars.githubusercontent.com/u/152147?v=4?s=100" width="100px;" alt="Benjamin Trevino"/><br /><sub><b>Benjamin Trevino</b></sub></a><br /><a href="#ideas-bentut" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
