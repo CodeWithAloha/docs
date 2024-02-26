@@ -2,16 +2,18 @@
 
 ## How do we choose projects?
 
-We have a few criteria for projects that we take on:
+We have a few rule of thumbs for projects that we take on:
 
-1. The project must be open source and for the public good. We want to make sure that the work we do is available to everyone.
-2. The project must be community-driven. We want to make sure that the community is involved in the process of building the project.
-3. Each project must have a project lead. We want to make sure that there is someone who is responsible for the project and can answer questions about it.
-4. Each project must also have a partner organization. We want to make sure that the project is being built for someone who needs it.
+1. Projects are open source and for the public good
+2. Project are community-driven and community-led (i.e. not for profit)
+3. Project have a project lead - someone who is responsible for the project and can answer questions about it. This is usually the person who proposed the project, and has been involved in the project from the beginning
+4. Project should have a partner organization - we don't want to work in a silo, and as primarily technologists we don't have all the answers
+
+> Note: As a diatrabe, many come into the brigade with the idea of siphoning off volunteers to work on their for-profit projects, or want to use the brigade as a way to get free labor. We are not that. We are not a business, and we don't want to be a business. We are a community of volunteers who want to make a difference in our community.
 
 ## What do we ask of project partners?
 
-1. Be able to attend one of the weekly meetings at least once a month. We want to make sure that the project partner is engaged and is able to explain the _why_ about the project.
+1. Be able to attend one of the meetings at least once a month. We want to make sure that the project partner is engaged and is able to explain the _why_ about the project.
 2. Provide a secondary point of contact. Just in case we need to reach someone when the primary point of contact is unavailable.
 
 ## What do we ask of project leads?
@@ -25,3 +27,10 @@ We have a few criteria for projects that we take on:
 
 1. You get to work on a project that you are passionate about. You also get to decide project direction and priorities.
 2. You can gain project management experience. You will be responsible for managing the project and the people working on it.
+
+## Recognizing Project Volunteers
+
+A list of project volunteers are recognized on the [group's website](https://codewithaloha.org/). This list is updated automatically in a few different ways:
+
+1. If you are a member of the Code With Aloha GitHub organization, and have contributed to a project listed in the [`REPOSITORIES_NAMES`](https://github.com/CodeWithAloha/website/blob/834177a0792f0d362bfc101dc38511b769ad8a49/.github/workflows/contributors.yml#L12) array in the [website repository](https://github.com/codewithaloha/website), you will be automatically added to the list of contributors.
+1. For non-GitHub contributors (e.g. non-technical contributors), you can be added to the list as well. `CodeWithAloha` supports the [All Contributors specification](https://allcontributors.org/), and you can be added to the list by adding a comment to the issue or pull request that you contributed to. For example, if you contributed to the `CodeWithAloha/website` repository, you can add a comment to the issue or pull request that you contributed to with the following message: `@all-contributors please add @yourusername for [type of contribution]`. The bot will then add you to the list of contributors.
