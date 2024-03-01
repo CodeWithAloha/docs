@@ -1,6 +1,6 @@
 # History
 
-Code for Hawaii was founded in 2013 by [Ryan Ozawa](https://twitter.com/hawaii) and [Burt Lum](https://twitter.com/burtlo). The group was originally called Code for America Honolulu Brigade, but changed its name to Code for Hawaii in 2016. The group was a [Code for America Brigade](https://brigade.codeforamerica.org/brigade/code-for-hawaii) and was a member of the [Code for America Network](https://www.codeforamerica.org/network/). In 2023, the group changed its name to Code with Aloha and exists under the [Alliance of Civic Technologists](https://www.civictechnologists.org/).
+Code for Hawaii was officially founded in 2012 by [Burt Lum](https://twitter.com/burtlo) and a few others during the initial phase of [Code for America Brigades](https://web.archive.org/web/20210510151613/https://www.codeforamerica.org/blog/2012/08/23/introducing-the-brigade-captains-program/). The group was a [Code for America Brigade](https://brigade.codeforamerica.org/brigade/code-for-hawaii) and was a member of the [Code for America Network](https://www.codeforamerica.org/network/). In 2023, the group changed its name to Code with Aloha and exists under the [Alliance of Civic Technologists](https://www.civictechnologists.org/).
 
 ## Non-Complete Group of Previous Members
 
