@@ -18,8 +18,8 @@ Code with Aloha (formerly Code for Hawaii) is a volunteer-driven community organ
 
 - [Google Account] - `codewithaloha@gmail.com`
 - [GitHub Organization](https://github.com/CodeWithAloha) - You're looking at it!
-- [Slack Workspace](hicapacity.slack.com) under the `#codeforhawaii` channel. We use Slack to communicate with each other.
-  - We exist under the `#codeforhawaii` channel in the [HiCapacity Slack Workspace](hicapacity.slack.com) because historically we existed as a community under HiCapacity. Now we use the workspace since is has Slack Pro features for free.
+- [Slack Workspace](codewithaloha.slack.com). We use Slack to communicate with each other.
+  - Historically, the group's communications existed under the `#codeforhawaii` channel in the [HiCapacity Slack Workspace](hicapacity.slack.com). We have since transitioned to our own workspace in early 2024.
 - [Meetup Group](https://www.meetup.com/code-with-aloha/) - We use Meetup to organize events and communicate with the community.
 - [Zoom Account] - Under the `codewithaloha@gmail.com` Google account.
 - [Twitter Account](https://twitter.com/codewithaloha) - `@codewithaloha`

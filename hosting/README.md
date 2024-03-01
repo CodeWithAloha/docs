@@ -7,13 +7,13 @@ Hosting is done on a rotational basis, with members of the group taking turns to
 - @avenmia
 - Kevin Lim
 
-Thank you to all of our hosts for their hard work! If you see them, be sure to give them a cookie or a high-five. For a list of the upcoming hosting schedule, see the [Hosting Schedule](SCHEDULE.MD) file.
+Thank you to all of our hosts for their hard work! If you see them, be sure to give them a cookie or a high-five. For a list of the upcoming hosting schedule, see the [Hosting Schedule](./SCHEDULE.MD) file.
 
 ## What do we ask of hosts?
 
 While there isn't a formal hosting process, there are a few things that hosts are responsible for:
 - Driving the meeting (e.g. setting an agenda, and making sure that the meeting stays on track)
-- Welcoming new members and onboarding them to the group (for an example onboarding process, see the [Onboarding](ONBOARDING.MD) file)
+- Welcoming new members and onboarding them to the group (for an example onboarding process, see the [Onboarding](./ONBOARDING.MD) file)
 - Discussing the group's projects and how to get involved, as well as any important announcements/updates (who is the project lead, what the project is about, etc.)
 
 For a checklist of things the host normally does:
