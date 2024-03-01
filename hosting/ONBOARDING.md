@@ -16,7 +16,6 @@
 1. Invite new members to the [CodeWithAloha Slack workspace](https://codewithaloha.slack.com/)
 - What is Slack? How do we use it?
 - [ ] Add new members to the [`Code With Aloha` Slack workspace](https://codewithaloha.slack.com/)
-- The `#general` channel is for general discussion about Code for Hawaii
 - Projects are discussed in their own channels, with the convention of `#project-<project-name>`
 1. Add new members to the [`CodeWithAloha` GitHub organization](https://github.com/codewithaloha)
 - [ ] Add new members to the `CodeWithAloha` GitHub organization
