@@ -21,7 +21,7 @@
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
-| * January | 8 | 2024 | @avenmia - @DerekMalone |
+| * January | 8 | 2024 | @avenmia |
 | January | 22 | 2024 | @Alexandra-Haynes |
 | January | 29 | 2024 | Next Planning Meeting |
 
