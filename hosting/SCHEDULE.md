@@ -12,7 +12,7 @@
 | --- | --- | --- | --- |
 | * March | 4 | 2024 | @tyliec |
 | March | 11 | 2024 | @avenmia |
-| March | 18 | 2024 |  @kobebuckley / @avenmia|
+| March | 18 | 2024 |  @kobebuckley - @avenmia|
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
