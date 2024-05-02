@@ -4,6 +4,15 @@
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
+| May | 1 | 2024 | TBD |
+| * May | 6 | 2024 | TBD - Combination Brigade Planning at 5, Social at 6 |
+| * May | 13 | 2024 | TBD |
+| May | 15 | 2024 | TBD |
+| May | 20 | 2024 | TBD |
+| May | 29 | 2024 | Next Planning Meeting - TBD |
+
+| Month | Day | Year | Host |
+| --- | --- | --- | --- |
 | * April | 8 | 2024 | @tyliec |
 | April | 15 | 2024 | @k7lim |
 | April | 29 | 2024 | Next Planning Meeting - @avenmia |
