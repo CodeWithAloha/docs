@@ -5,7 +5,7 @@
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
 | * April | 8 | 2024 | @tyliec |
-| April | 15 | 2024 | @avenmia |
+| April | 15 | 2024 | @k7lim |
 | April | 29 | 2024 | Next Planning Meeting - @avenmia |
 
 | Month | Day | Year | Host |
