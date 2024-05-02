@@ -9,7 +9,13 @@ We have a few rule of thumbs for projects that we take on:
 3. Project have a project lead - someone who is responsible for the project and can answer questions about it. This is usually the person who proposed the project, and has been involved in the project from the beginning
 4. Project should have a partner organization - we don't want to work in a silo, and as primarily technologists we don't have all the answers
 
-> Note: As a diatrabe, many come into the brigade with the idea of siphoning off volunteers to work on their for-profit projects, or want to use the brigade as a way to get free labor. We are not that. We are not a business, and we don't want to be a business. We are a community of volunteers who want to make a difference in our community.
+**Notes from @tyliec / Tyler Chong**
+
+As a diatrabe, many come into the brigade with the idea of siphoning off volunteers to work on their for-profit projects, or want to use the brigade as a way to get free labor. We are not that. We are not a business, and we don't want to be a business. We are a community of volunteers who want to make a difference in our community.
+
+The idea behind the projects we take on to the group are that the projects we work on impact everyone that lives here (essentially meaning that all the projects have some government tie-in, as "government" is the body that we as a society collectively decide to live under). Other organizations have reached out for work on their potential project ideas, but the usual disonnect is that non-profits / private entities conceptually do not have to serve everyone - and oftentimes the projects they propose do not.
+
+However, there's no silver bullet here. The projects we take on will almost always be a blend of idealism (multiple generations impact & serving everyone that lives here) and the practical (short term, exciting impact for a select community). I like to think we steer the group towards the former rather than the latter, but that comes with it's own sets of challenges (low engagement since projects are typically less "exciting", longer running project timelines, ...etc). All that to say that running these projects are hard, and should not be taken lightly.
 
 ## What do we ask of project partners?
 
