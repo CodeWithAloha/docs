@@ -8,7 +8,8 @@
 - [Zoom Account] - Under the `codewithaloha@gmail.com` Google account.
 - [Twitter Account](https://twitter.com/codewithaloha) - `@codewithaloha`
 - [LinkedIn Account](https://www.linkedin.com/company/code-with-aloha/) - `Code with Aloha`
-- [Open Collective](https://opencollective.com/code-with-aloha) is used to collect donations and pay for expenses.
+- [Hack Club Bank](https://hcb.hackclub.com/code-with-aloha) is used to collect donations and pay for expenses.
+  - Historically, [Open Collective](https://opencollective.com/code-with-aloha) was used until [it's dissolution](https://opencollective.com/foundation/updates/announcement-we-are-dissolving-open-collective-foundation-at-the-end-of-this-year)
 - Venues
 - - [BoxJelly](https://www.theboxjelly.com/)
 - - [Entrepreneurs Sandbox](https://sandboxhawaii.org/)
