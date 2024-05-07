@@ -19,7 +19,7 @@
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
-| * May | 6 | 2024 | TBD - Combination Brigade Planning at 5, Social at 6 |
+| * May | 6 | 2024 | @kobebuckley Combination Brigade Planning at 5, Social at 6 |
 | * May | 20 | 2024 | @afoolinschool |
 
 | Month | Day | Year | Host |
