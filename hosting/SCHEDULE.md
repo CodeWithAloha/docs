@@ -4,12 +4,23 @@
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
-| May | 1 | 2024 | TBD |
+| * August | 5 | 2024 | TBD - Combination Brigade Planning at 5, Social at 6 |
+| * August | 19 | 2024 | @tyliec |
+
+| Month | Day | Year | Host |
+| --- | --- | --- | --- |
+| * July | 1 | 2024 | TBD - Combination Brigade Planning at 5, Social at 6 |
+| * July | 15 | 2024 | @avenmia |
+
+| Month | Day | Year | Host |
+| --- | --- | --- | --- |
+| * June | 3 | 2024 | @k7lim - Combination Brigade Planning at 5, Social at 6 |
+| * June | 17 | 2024 | @sthapa |
+
+| Month | Day | Year | Host |
+| --- | --- | --- | --- |
 | * May | 6 | 2024 | TBD - Combination Brigade Planning at 5, Social at 6 |
-| * May | 13 | 2024 | TBD |
-| May | 15 | 2024 | TBD |
-| May | 20 | 2024 | TBD |
-| May | 29 | 2024 | Next Planning Meeting - TBD |
+| * May | 20 | 2024 | @afoolinschool |
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
