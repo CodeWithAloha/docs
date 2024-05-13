@@ -3,7 +3,7 @@
 > Note: This guide is for new members of Code With Aloha. It is primarily intended to be used by the host of the onboarding meeting, but can be used and referenced by anyone who is interested in learning more about the group.
 
 1. Go over what the group does and what the group is about
-- What is Civic Technology?
+- What is [Civic Technology](https://www.govtech.com/civic/what-is-civic-tech.html)?
 - What is Code for Hawaii / Code with Aloha?
 - What is the mission of the group?
 - Where do we typically meet? How often?

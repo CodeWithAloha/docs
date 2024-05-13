@@ -2,6 +2,8 @@
 
 > Note: `*` signifies an in-person meeting
 
+**2024**
+
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
 | * August | 5 | 2024 | TBD - Combination Brigade Planning at 5, Social at 6 |
@@ -45,6 +47,10 @@
 | January | 22 | 2024 | @Alexandra-Haynes |
 | January | 29 | 2024 | Next Planning Meeting |
 
+<details>
+
+<summary>2023</summary>
+
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
 | * December | 4 | 2023 | @tyliec |
@@ -61,3 +67,5 @@
 | October | 9 | 2023 | @kmal808 |
 | October | 16 | 2023 | @avenmia |
 | October | 23 | 2023 | @avenmia |
+
+</details>

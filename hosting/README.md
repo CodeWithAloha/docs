@@ -5,7 +5,7 @@ Hosting is a key part of the success of the group. Very often, the host is the f
 Hosting is done on a rotational basis, with members of the group taking turns to host the meeting. Current members in the rotational schedule:
 - @tyliec
 - @avenmia
-- Kevin Lim
+- @k7lim
 
 Thank you to all of our hosts for their hard work! If you see them, be sure to give them a cookie or a high-five. For a list of the upcoming hosting schedule, see the [Hosting Schedule](./SCHEDULE.md) file.
 
@@ -31,4 +31,4 @@ We understand that hosting can be a lot of work, and we want to make sure that o
 ## Operational Details
 - Editing the [Meetup](https://www.meetup.com/code-with-aloha/) event
 - Scheduling the venue
-- Reimbursement for food and drinks
+- Reimbursement for food and drinks (budget of $100 per meeting)
