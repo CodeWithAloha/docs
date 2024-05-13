@@ -16,6 +16,7 @@
 1. Invite new members to the [CodeWithAloha Slack workspace](https://codewithaloha.slack.com/)
 - What is Slack? How do we use it?
 - [ ] Add new members to the [`Code With Aloha` Slack workspace](https://codewithaloha.slack.com/)
+- - This can be done by passing out the short invite link here: `http://slack(dot)codewithaloha(dot)org`
 - Projects are discussed in their own channels, with the convention of `#project-<project-name>`
 1. Add new members to the [`CodeWithAloha` GitHub organization](https://github.com/codewithaloha)
 - [ ] Add new members to the `CodeWithAloha` GitHub organization
