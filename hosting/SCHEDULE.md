@@ -11,7 +11,7 @@
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
-| * July | 1 | 2024 | TBD - Combination Brigade Planning at 5, Social at 6 |
+| * July | 1 | 2024 | @afoolinschool - Combination Brigade Planning at 5, Social at 6 |
 | * July | 15 | 2024 | @avenmia |
 
 | Month | Day | Year | Host |
