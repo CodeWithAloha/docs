@@ -11,12 +11,12 @@
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
-| * July | 1 | 2024 | @afoolinschool - Combination Brigade Planning at 5, Social at 6 |
+| * July | 1 | 2024 | @afoolinschool - Social at 6 |
 | * July | 15 | 2024 | @avenmia |
 
 | Month | Day | Year | Host |
 | --- | --- | --- | --- |
-| * June | 3 | 2024 | @k7lim - Combination Brigade Planning at 5, Social at 6 |
+| * June | 3 | 2024 | @k7lim - Social at 6 |
 | * June | 17 | 2024 | @sthapa |
 
 | Month | Day | Year | Host |
